@@ -2,7 +2,7 @@
 
 /**
  * _strstr - find the occurrence of the substring
- * need in the string
+ * needle in the string
  * @haystack: entire string
  * @needle: substring
  * Return: pointer to the beginning of located substring
